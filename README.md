@@ -14,6 +14,17 @@
 
 ## Servicios
 
+
+- **Gateway Service**
+    - PORT: 3000
+
+```sh
+cd backend/gateway-service
+npm install
+npm test
+npm run dev
+```
+
 - **Productos Service**
     - PORT: 3001
 
@@ -43,3 +54,4 @@ npm install
 npm test
 npm run dev
 ```
+
