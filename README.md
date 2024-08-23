@@ -55,3 +55,7 @@ npm test
 npm run dev
 ```
 
+## Frontend
+
+- Cada service tiene un frontend
+- El frontend del gateway es igual que el frontend general
